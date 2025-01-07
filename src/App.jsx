@@ -21,7 +21,7 @@ function App() {
         </a>
       </div>
       <ButtonComponent text="Cliccami!" />
-      <ImageComponent src="https://cdn.pixabay.com/photo/2024/05/26/15/27/kid-8788962_1280.jpg" alt ="Img"/>
+      <ImageComponent src="https://cdn.pixabay.com/photo/2024/05/26/15/27/kid-8788962_1280.jpg" alt ="Img" style={{ width: '400px' }}/>
     </>
   )
 }
